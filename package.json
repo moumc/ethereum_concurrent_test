@@ -15,7 +15,7 @@
     "ethereumjs-tx": "^2.1.0",
     "ethjs-provider-http": "^0.1.6",
     "ethjs-rpc": "^0.2.0",
-    "knex": "^0.19.0",
+    "knex": "^2.4.0",
     "log4js": "^4.5.1",
     "mysql": "^2.17.1",
     "sleep": "^6.1.0"
